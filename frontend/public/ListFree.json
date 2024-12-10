@@ -1,0 +1,83 @@
+[
+    {
+        "id":1,
+        "name":"Story Book",
+        "title":"Lorem ipsum dolor sit amet consectetur",
+        "price":0,
+        "category":"Free",
+        "image":"./CardImage.png"
+    },
+    {
+        "id":2,
+        "name":"Story Book",
+        "title":"Lorem ipsum dolor sit amet consectetur",
+        "price":0,
+        "category":"Free",
+        "image":"./CardImage.png"
+    },
+    {
+        "id":3,
+        "name":"Story Book",
+        "title":"Lorem ipsum dolor sit amet consectetur",
+        "price":0,
+        "category":"Free",
+        "image":"./CardImage.png"
+    },
+    {
+        "id":4,
+        "name":"Story Book",
+        "title":"Lorem ipsum dolor sit amet consectetur",
+        "price":0,
+        "category":"Free",
+        "image":"./CardImage.png"
+    },
+    {
+        "id":5,
+        "name":"Story Book",
+        "title":"Lorem ipsum dolor sit amet consectetur",
+        "price":0,
+        "category":"Free",
+        "image":"./CardImage.png"
+    },
+    {
+        "id":6,
+        "name":"Story Book",
+        "title":"Lorem ipsum dolor sit amet consectetur",
+        "price":0,
+        "category":"Free",
+        "image":"./CardImage.png"
+    },
+    {
+        "id":7,
+        "name":"Story Book",
+        "title":"Lorem ipsum dolor sit amet consectetur",
+        "price":0,
+        "category":"Free",
+        "image":"./CardImage.png"
+    },
+    {
+        "id":8,
+        "name":"Story Book",
+        "title":"Lorem ipsum dolor sit amet consectetur",
+        "price":0,
+        "category":"Free",
+        "image":"./CardImage.png"
+    },
+    {
+        "id":9,
+        "name":"Story Book",
+        "title":"Lorem ipsum dolor sit amet consectetur",
+        "price":0,
+        "category":"Free",
+        "image":"./CardImage.png"
+    },
+    {
+        "id":10,
+        "name":"Story Book",
+        "title":"Lorem ipsum dolor sit amet consectetur",
+        "price":0,
+        "category":"Free",
+        "image":"./CardImage.png"
+    }
+    
+]
