@@ -43,5 +43,5 @@ cd backend
 ![Screenshot 2024-12-11 184443](https://github.com/user-attachments/assets/6c4eb28a-e9d4-4be4-ba9d-7847487cb342)
 ![Screenshot 2024-12-11 184534](https://github.com/user-attachments/assets/8981b028-33c3-4ef9-93f9-d7b79ecc3f96)
 
-![Screenshot 2024-12-11 184600](https://github.com/user-attachments/assets/40ef4d9b-4672-4c00-9f01-ed32bfdbe0f1)
-![Screenshot 2024-12-11 184619](https://github.com/user-attachments/assets/5aefa0b6-68aa-40ee-99b1-1e072d17666c)
+![Screenshot 2024-12-11 203716](https://github.com/user-attachments/assets/eaf9b21e-ca8a-4c0b-855e-25190bc516b0)
+![Screenshot 2024-12-11 203735](https://github.com/user-attachments/assets/abd65a93-2898-48d8-bdac-9224ab832fa7)
